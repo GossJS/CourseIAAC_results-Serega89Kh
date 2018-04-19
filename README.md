@@ -9,7 +9,7 @@
 Перевод числа - https://moodle.herzen.spb.ru/mod/forum/discuss.php?d=6137
 Алгоритм половинного деления
 Рекурсия 
-Анализ алгоритма сортировки
+Анализ алгоритма сортировки - https://moodle.herzen.spb.ru/mod/forum/discuss.php?d=6186&parent=11371
 ```
 
 Как оформлять?
