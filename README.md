@@ -4,13 +4,11 @@
 Репозиторий-основа для материалов по дисциплине «Алгоритмы и анализ сложности»
 
  Список заданий:
- ```
 Автоматное https://drive.google.com/open?id=1EB9uRvoiQ5P1-1Dpk9st4nDCKV4n1UP0 
 Перевод числа - https://drive.google.com/open?id=1R9ZFhQD3w-QdRt-wt_RHpSCeYt2UjluE
 Алгоритм половинного деления - https://drive.google.com/open?id=1ilY3muWrQbxIcNDr6Vc6ucxGVRpFZ0Rf
 Рекурсия - https://drive.google.com/open?id=1aHp63oGxCObvdbcirrU7q18cZKF00jhg
 Анализ алгоритма сортировки - https://drive.google.com/open?id=1ijMle9_4PSJhqLaipEjoLrQ1C4rGhOn9
-```
 
 Как оформлять?
 
